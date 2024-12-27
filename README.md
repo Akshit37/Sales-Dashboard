@@ -28,4 +28,4 @@ I'll also look for other ways to improve the restaurant's operations and sales. 
 * Best-selling: Classic pizzas generate the highest revenue and quantity.
 * Worst-selling: Veggie pizzas have the lowest revenue and chicken pizza has the lowest quantity.
 
-Link to the
+Link to the dashboard and dataset: https://github.com/Akshit37/Sales-Dashboard.git
